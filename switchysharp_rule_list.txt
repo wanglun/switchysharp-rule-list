@@ -29,6 +29,7 @@
 *://code.google.com/*
 *://*.google.com/*
 *://*.google.com.hk/*
+*://*.google.co.jp/*
 *://*.google.com.sg/*
 *://*.googleapis.com/*
 *://*.googlecode.com/*
@@ -90,5 +91,4 @@
 [regexp]
 
 #END
-
 
