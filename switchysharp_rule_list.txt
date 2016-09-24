@@ -28,6 +28,7 @@
 *://goo.gl/*
 *://code.google.com/*
 *://*.google.com/*
+*://*.googleusercontent.com/*
 *://*.google.com.hk/*
 *://*.google.co.jp/*
 *://*.google.com.sg/*
